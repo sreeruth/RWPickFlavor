@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.3.0"
+s.version = "0.4.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -20,8 +20,7 @@ s.author = { "Sreekanth Ruthala" => "ravisree1290@gmail.com" }
 s.homepage = "https://github.com/sreeruth/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/sreeruth/RWPickFlavor.git",
-             :tag => "#{s.version}" }
+s.source = { :git => "https://github.com/sreeruth/RWPickFlavor.git", :tag => "#{s.version}" }
 
 # 7
 s.framework = "UIKit"
