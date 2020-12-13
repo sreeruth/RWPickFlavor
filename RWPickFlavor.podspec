@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.4.0"
+s.version = "0.5.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -31,7 +31,7 @@ s.dependency 'MBProgressHUD', '~> 1.1.0'
 s.source_files = "RWPickFlavor/**/*.{swift}"
 
 # 9
-s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,imageset,json}"
 
 # 10
 s.swift_version = "4.2"
